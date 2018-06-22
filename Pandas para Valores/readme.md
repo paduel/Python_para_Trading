@@ -1,0 +1,1 @@
+Notebooks sobre el uso de Pandas para analisis de series temporales de activos financieros creados por [@Paduel](https://t.me/paduel) para el grupo de Telegram ['Python para Trading'](https://t.me/pythontrading).
